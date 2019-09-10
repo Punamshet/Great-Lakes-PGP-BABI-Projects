@@ -1,4 +1,4 @@
-### This R script serves as the backend code for group assignment of predictive modeling ###
+### This R script serves as the code for assignment of predictive modeling ###
 
 
 
